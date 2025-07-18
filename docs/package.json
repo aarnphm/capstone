@@ -106,7 +106,7 @@
     "@types/source-map-support": "^0.5.10",
     "@types/ws": "^8.18.0",
     "@types/yargs": "^17.0.33",
-    "esbuild": "^0.25.1",
+    "esbuild": "^0.25.2",
     "prettier": "^3.5.3",
     "tsx": "^4.19.3",
     "typescript": "^5.8.2"
